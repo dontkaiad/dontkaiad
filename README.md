@@ -13,7 +13,9 @@
 ⚠️ May require peel (or just space and Monster Energy).  
 
 > I debug my life the same way I debug logs: with grep and caffeine.  
+
 > sudo apt install dopamine   
+
 > if (coffee === true && monster === true) { focus++; }
 
 🧠 **Main Stack:**  
