@@ -3,7 +3,7 @@
 📍 St. Petersburg — open to relocation (PL / RS / MNE pref.)  
 💻 Tech support → QA → PromptOps  
 🧠 PromptOps Explorer | QA-minded Tech Support | Incident Flow Analyst  
-🧪 Explored LLM prompting before 1:05 min ingame
+🧪 Explored LLM prompting before 1:05 min ingame  
 🎧 Focus fueled by post-punk & caffeine.  
 
 ---
