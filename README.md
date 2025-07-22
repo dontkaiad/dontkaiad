@@ -18,15 +18,18 @@
 
 > if (coffee === true && monster === true) { focus++; }
 
-🧠 **Main Stack:**  
-- Markdown / Confluence  
-- SQL / Bash / REST API  
-- Grafana / Graylog / Git / Jenkins  
-- Prompt engineering & QA (few-shot, zero-shot, CoT)  
-- Service Desk, Jira, Notion  
+ 
+**🧠 Main Tech Stack:**  
+🛠️ Markdown / Confluence / Notion  
+📡 REST API / Bash / SQL  
+📊 Grafana / Graylog / Jenkins  
+🧪 QA: manual + exploratory  
+🤖 Prompt Engineering: few-shot / CoT / GPT / Claude / Grok / Cursor  
+💼 Tools: Jira, Git, Service Desk
+ 
 
 🌍 **Languages:**  
-🇷🇺 Native Russian 🇬🇧 English (C1) 🇫🇷 French (B1) 🇩🇪 German (B1)
+🇷🇺 Native Russian 🇬🇧 English (C1) 
 
 ---
 
@@ -39,3 +42,5 @@
 
 ---
 
+🚀 Looking for roles in PromptOps, LLM QA, or tech writing (remote or PL/RS preferred).  
+📫 Reach out: icymirum@gmail.com | [Telegram](https://t.me/hey_lark)
