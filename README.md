@@ -4,7 +4,7 @@
 💻 Tech support → QA → PromptOps → PM (same brain, more responsibility)  
 🧠 PM who codes | Engineer who manages | No translators needed  
 🧪 Explored LLM prompting before 1:05 min ingame  
-✨ Vibe coder — sometimes I build things just to see if they work
+✨ Vibe coder — sometimes I build things just to see if they work  
 🎧 Focus fueled by post-punk & caffeine.  
 
 ---
