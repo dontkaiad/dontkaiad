@@ -1,7 +1,7 @@
 **💀 League of Legends Champion Spotlight: Karina /Kai/ Lark**
 
 📍 St. Petersburg — open to relocation (PL / RS / MNE pref.)  
-💻 Tech support → QA → PromptOps → PM (same brain, more responsibility)
+💻 Tech support → QA → PromptOps → PM (same brain, more responsibility)  
 🧠 PM who codes | Engineer who manages | No translators needed  
 🧪 Explored LLM prompting before 1:05 min ingame  
 ✨ Vibe coder — sometimes I build things just to see if they work
@@ -20,20 +20,20 @@
 > if (coffee === true && monster === true) { focus++; }
 
  
-**🧠 Tech Stack:**
+**🧠 Tech Stack:**  
 
-🐍 Python / REST API / Bash / SQL
-📊 Grafana / Graylog / Jenkins
-🧪 QA: manual + exploratory + LLM testing
-🤖 Prompt Engineering: few-shot / CoT / GPT / Claude
-⚡ AI agents: OpenHands, LangChain basics, vibe coding
+🐍 Python / REST API / Bash / SQL  
+📊 Grafana / Graylog / Jenkins  
+🧪 QA: manual + exploratory + LLM testing  
+🤖 Prompt Engineering: few-shot / CoT / GPT / Claude  
+⚡ AI agents: OpenHands, LangChain basics, vibe coding  
 
-**📋 PM Stack:**
+**📋 PM Stack:**  
 
-🛠️ Confluence / Notion — specs & docs
-📅 Roadmapping / Requirements / Stakeholders
-🔄 Process design / Agile / Team coordination
-💼 Jira / Git — project tracking
+🛠️ Confluence / Notion — specs & docs  
+📅 Roadmapping / Requirements / Stakeholders  
+🔄 Process design / Agile / Team coordination  
+💼 Jira / Git — project tracking  
  
 
 🌍 **Languages:**  
@@ -50,6 +50,6 @@
 
 ---
 
-🚀 Current queue: Technical PM / PromptOps
-🎯 Looking for ranked team: remote or relocation (PL/RS/MNE pref.)
+🚀 Current queue: Technical PM / PromptOps  
+🎯 Looking for ranked team: remote or relocation (PL/RS/MNE pref.)  
 📫 Add me: icymirum@gmail.com | [Telegram](https://t.me/hey_lark)
