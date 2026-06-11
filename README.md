@@ -1,60 +1,75 @@
-**💀 League of Legends Champion Spotlight: Karina /Kai/ Lark**
+<div align="center">
 
-📍 St. Petersburg — open to relocation (PL / RS / MNE pref.)  
-🤖 AI / LLM Engineer — I build LLM systems and ship them to production  
-🧠 Support → monitoring → QA → PromptOps → building LLM systems (same brain, fewer translators)  
-🔮 I read tarot too — and shipped it as code (Arcana, in my pinned repos)  
-✨ I build things to see if they work — then I make them survive production  
-🎧 Focus fueled by post-punk & caffeine.  
+# Karina «Kai» Lark
+
+`AI / LLM Engineer` · `PromptOps → LLM eng` · `tarot → code` · `ADC main`
+
+[![Telegram](https://img.shields.io/badge/Telegram-0D0D12?style=flat-square&logo=telegram&logoColor=5EE6D0)](https://t.me/hey_lark)
+[![Email](https://img.shields.io/badge/Email-0D0D12?style=flat-square&logo=gmail&logoColor=5EE6D0)](mailto:icymirum@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0D0D12?style=flat-square&logo=github&logoColor=5EE6D0)](https://github.com/dontkaiad)
+[![Open to work](https://img.shields.io/badge/open%20to%20work-remote%20%2F%20relocation-5EE6D0?style=flat-square&labelColor=0D0D12)](mailto:icymirum@gmail.com)
+
+</div>
+<table>
+<tr>
+<td valign="top">
+
+🤖 I build LLM systems and ship them to production  
+🧠 Support → monitoring & QA → PromptOps → LLM engineering — same brain, fewer translators  
+🔮 I read tarot too, and shipped it as code (Arcana, pinned below)  
+🌍 Open to relocation: Europe (PL / CZ / RS pref.)  
+🎧 Fueled by post-punk & caffeine  
 
 > I pull structure out of chaos — logs, prompts, and the occasional tarot spread.
 
----
+🧬 **ADC main** — 50% uptime, 100% crit damage  
+🎯 Learned to kite from burnout, not bots  
+⚠️ May require peel (or just space and Monster Energy)  
 
-🧬 Role: ADC main — 50% uptime, 100% crit damage.  
-🎯 Learned to kite from burnout, not bots.  
-⚠️ May require peel (or just space and Monster Energy).  
-
-> I debug my life the same way I debug logs: with grep and caffeine.  
 > sudo apt install dopamine  
 > if (coffee === true && monster === true) { focus++; }
-
----
-
-**🧠 Stack**
-
-🐍 Python / aiogram / FastAPI / Docker  
-🤖 LLM APIs: Claude (Haiku + Sonnet, model-routed) · OpenRouter · OpenAI Whisper · Vision  
-🔎 RAG: Qdrant · embeddings · reranking · retrieval eval  
-🧪 Behavioral evals · prompt-regression tests · cost-aware routing · prompt caching  
-📊 Monitoring: Grafana / Graylog / Langfuse  
-🗄️ SQL / SQLite / Notion API · REST integration / webhooks · Git / bash / ssh  
-
-*Also: scoping, specs, delivery and the commercial paperwork when a project needs it — but the build is the point.*
-
-🌍 **Languages:** 🇷🇺 Native Russian · 🇬🇧 English (C1)
-
----
 
 💬 *Champion Quotes:*  
 > "I don't scale. I snowball."  
 > "It's not chaos — it's undocumented structure."  
 > "The logs and the cards say the same thing once you can read them."  
-> "Haiku for the small stuff. Sonnet when it matters."  
 > "One cat runs my cluster, one reviews my PRs, the third force-pushes to main."  
 > "My ELO is higher than your uptime."  
-> "I don't wait for permission to carry."  
+> "I don't wait for permission to carry."
+
+
+</td>
+<td width="300" valign="top">
+<img src="kai_splash.png" width="280" alt="Karina Kai Lark — AI / LLM Engineer">
+</td>
+</tr>
+</table>
 
 ---
 
-🚀 Current queue: **AI / LLM Engineer** (applied — building LLM systems on APIs)  
-🎯 Looking for ranked team: remote or relocation (PL / RS / MNE pref.)  
-📫 Add me: icymirum@gmail.com | [Telegram](https://t.me/hey_lark) | [GitHub](https://github.com/dontkaiad)
+### 🧠 Stack
+
+![Python](https://img.shields.io/badge/Python-0D0D12?style=flat-square&logo=python&logoColor=5EE6D0) ![FastAPI](https://img.shields.io/badge/FastAPI-0D0D12?style=flat-square&logo=fastapi&logoColor=5EE6D0) ![Docker](https://img.shields.io/badge/Docker-0D0D12?style=flat-square&logo=docker&logoColor=5EE6D0) ![SQLite](https://img.shields.io/badge/SQLite-0D0D12?style=flat-square&logo=sqlite&logoColor=5EE6D0) ![Claude](https://img.shields.io/badge/Claude-0D0D12?style=flat-square&logo=anthropic&logoColor=5EE6D0) ![Grafana](https://img.shields.io/badge/Grafana-0D0D12?style=flat-square&logo=grafana&logoColor=5EE6D0) ![Git](https://img.shields.io/badge/Git-0D0D12?style=flat-square&logo=git&logoColor=5EE6D0) ![Notion](https://img.shields.io/badge/Notion-0D0D12?style=flat-square&logo=notion&logoColor=5EE6D0) ![Linux](https://img.shields.io/badge/Linux-0D0D12?style=flat-square&logo=linux&logoColor=5EE6D0)
+
+🤖 **LLM:** Claude (Haiku + Sonnet, model-routed) · OpenRouter · OpenAI Whisper · Vision  
+🔎 **RAG:** Qdrant · embeddings · reranking · retrieval eval  
+🧪 **Evals & cost:** behavioral evals · prompt-regression tests · cost-aware routing · prompt caching  
+📊 **Monitoring:** Grafana · Graylog · Langfuse  
+🗄️ **Infra:** aiogram · SQL / SQLite · Notion API · REST / webhooks · Git / bash / ssh  
+
+*Also: scoping, specs, delivery and the commercial paperwork when a project needs it — but the build is the point.*
+
+🌍 **Languages:** 🇷🇺 Native Russian · 🇬🇧 English (C1) 
 
 ---
+
+🚀 **Current queue:** AI / LLM Engineer (applied — building LLM systems on APIs)  
+🎯 **Looking for ranked team:** remote or relocation — Europe (PL / CZ / RS pref.)  
+📫 **Add me:** [![Telegram](https://img.shields.io/badge/Telegram-0D0D12?style=flat-square&logo=telegram&logoColor=5EE6D0)](https://t.me/hey_lark) [![Email](https://img.shields.io/badge/Email-0D0D12?style=flat-square&logo=gmail&logoColor=5EE6D0)](mailto:icymirum@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-0D0D12?style=flat-square&logo=github&logoColor=5EE6D0)](https://github.com/dontkaiad)
+
 
 <details>
-<summary>🕹️ Easter Egg: Champion Spotlight — Kai, the Neurodivergent Engineer</summary>
+<summary>🕹️ Easter Egg: <i>Champion Spotlight — Kai, the Neurodivergent Engineer</i></summary>
 
 <br>
 
@@ -130,13 +145,5 @@ At:
 *• Passive bonus: musical damage over time (if headphones are on). Press ctrl5 to put headphones on.*
 
 ---
-
-### 🐾 Champion quotes:
-
-> "I don't scale. I snowball."  
-> "It's not chaos — it's undocumented structure."  
-> "Haiku for the small stuff. Sonnet when it matters."  
-> "One cat runs my cluster. The other reviews my PRs."  
-> "I don't wait for permission to carry."  
 
 </details>
