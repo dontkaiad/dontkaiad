@@ -1,6 +1,6 @@
 <div align="center">
 
-# Karina «Kai» Lark
+# Karina/Kai Lark
 
 `AI / LLM Engineer` · `PromptOps → LLM eng` · `tarot → code` · `ADC main`
 
