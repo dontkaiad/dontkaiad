@@ -1,8 +1,8 @@
 <div align="center">
 
-# Karina/Kai Lark
+# LoL Champion Spotlight: Karina/Kai Lark 
 
-`AI / LLM Engineer` · `PromptOps → LLM eng` · `tarot → code` · `ADC main`
+`AI / LLM Engineer` · `witch in prod` · `self-taught`
 
 [![Telegram](https://img.shields.io/badge/Telegram-0D0D12?style=flat-square&logo=telegram&logoColor=5EE6D0)](https://t.me/hey_lark)
 [![Email](https://img.shields.io/badge/Email-0D0D12?style=flat-square&logo=gmail&logoColor=5EE6D0)](mailto:icymirum@gmail.com)
@@ -14,15 +14,18 @@
 <tr>
 <td valign="top">
 
-🤖 I build LLM systems and ship them to production  
-🧠 Support → monitoring & QA → PromptOps → LLM engineering — same brain, fewer translators  
+`patch 6.0` · `elo: middle` · `status: in queue`
+
+<br>
+
+🤖 I integrate LLMs into products and make them survive prod       
+🧠 Applied LLM engineer — ex-support, so I know where it breaks  
 🔮 I read tarot too, and shipped it as code (Arcana, pinned below)  
-🌍 Open to relocation: Europe (PL / CZ / RS pref.)  
 🎧 Fueled by post-punk & caffeine  
 
-> I pull structure out of chaos — logs, prompts, and the occasional tarot spread.
+> no gods, no managers, no flaky tests
 
-🧬 **ADC main** — 50% uptime, 100% crit damage  
+🧬 ADC main — 50% uptime, 100% on-hit damage  
 🎯 Learned to kite from burnout, not bots  
 ⚠️ May require peel (or just space and Monster Energy)  
 
@@ -30,8 +33,7 @@
 > if (coffee === true && monster === true) { focus++; }
 
 💬 *Champion Quotes:*  
-> "I don't scale. I snowball."  
-> "It's not chaos — it's undocumented structure."  
+> "I don't scale. I snowball."   
 > "The logs and the cards say the same thing once you can read them."  
 > "One cat runs my cluster, one reviews my PRs, the third force-pushes to main."  
 > "My ELO is higher than your uptime."  
@@ -51,15 +53,14 @@
 
 ![Python](https://img.shields.io/badge/Python-0D0D12?style=flat-square&logo=python&logoColor=5EE6D0) ![FastAPI](https://img.shields.io/badge/FastAPI-0D0D12?style=flat-square&logo=fastapi&logoColor=5EE6D0) ![Docker](https://img.shields.io/badge/Docker-0D0D12?style=flat-square&logo=docker&logoColor=5EE6D0) ![SQLite](https://img.shields.io/badge/SQLite-0D0D12?style=flat-square&logo=sqlite&logoColor=5EE6D0) ![Claude](https://img.shields.io/badge/Claude-0D0D12?style=flat-square&logo=anthropic&logoColor=5EE6D0) ![Grafana](https://img.shields.io/badge/Grafana-0D0D12?style=flat-square&logo=grafana&logoColor=5EE6D0) ![Git](https://img.shields.io/badge/Git-0D0D12?style=flat-square&logo=git&logoColor=5EE6D0) ![Notion](https://img.shields.io/badge/Notion-0D0D12?style=flat-square&logo=notion&logoColor=5EE6D0) ![Linux](https://img.shields.io/badge/Linux-0D0D12?style=flat-square&logo=linux&logoColor=5EE6D0)
 
-🤖 **LLM:** Claude (Haiku + Sonnet, model-routed) · OpenRouter · OpenAI Whisper · Vision  
-🔎 **RAG:** Qdrant · embeddings · reranking · retrieval eval  
-🧪 **Evals & cost:** behavioral evals · prompt-regression tests · cost-aware routing · prompt caching  
-📊 **Monitoring:** Grafana · Graylog · Langfuse  
-🗄️ **Infra:** aiogram · SQL / SQLite · Notion API · REST / webhooks · Git / bash / ssh  
+**🤖 LLM** — Claude · Gemini · Grok · Qwen · Llama · OpenRouter · Whisper · Vision  
+**🏠 Self-hosted & local** — local LLM deployment · cloud→local migration (Qwen over cloud) · inference on constrained hardware (RPi)  
+**⚙️ AI in prod** — real-time image generation · model routing · cost-aware routing · token accounting · STT / voice pipelines  
+**🛠️ Backend** — Python · FastAPI · SQL · Docker · REST · webhooks  
+**📊 Observability** — Grafana · Graylog · Langfuse  
+**🧩 Product** — web apps · CRMs · admin panels · dashboards · TG bots & Mini Apps — I design the system, my team & AI ship it  
 
-*Also: scoping, specs, delivery and the commercial paperwork when a project needs it — but the build is the point.*
-
-🌍 **Languages:** 🇷🇺 Native Russian · 🇬🇧 English (C1) 
+**🌍 Languages** — 🇷🇺 Russian (native) · 🇬🇧 English (C1)
 
 ---
 
