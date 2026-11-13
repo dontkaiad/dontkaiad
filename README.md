@@ -81,7 +81,6 @@
 **Damage Type:** Physical / Magic  
 **Scaling:** Knowledge + Concentration + Intuition  
 **Origin:** Tech Support Depths  
-**Patch:** Pre-PromptOps · *re-rolled into LLM Engineer (current patch)*
 
 ---
 
