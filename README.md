@@ -14,18 +14,19 @@
 <tr>
 <td valign="top">
 
-`patch 6.0` · `elo: middle` · `status: in queue`
+`patch 6.1` · `elo: RAG · evals · agents` · `status: in queue`
 
 <br>
 
 🤖 I integrate LLMs into products and make them survive prod       
-🧠 Applied LLM engineer — ex-support, so I know where it breaks  
+🧠 Applied LLM engineer — ex-support, so I know where it breaks and fix that first  
+📊 I don't guess, I eval: golden sets, recall@k, regression evals in CI  
 🔮 I read tarot too, and shipped it as code (Arcana, pinned below)  
 🎧 Fueled by post-punk & caffeine  
 
-> no gods, no managers, no flaky tests
+> no gods, no flaky tests
 
-🧬 ADC main — 50% uptime, 100% on-hit damage  
+🧬 ADC / Mage hybrid — runs on Focus, not mana  
 🎯 Learned to kite from burnout, not bots  
 ⚠️ May require peel (or just space and Monster Energy)  
 
@@ -34,7 +35,7 @@
 
 💬 *Champion Quotes:*  
 > "I don't scale. I snowball."   
-> "The logs and the cards say the same thing once you can read them."  
+> "The logs tell me what broke. The cards tell me what I'm avoiding."   
 > "One cat runs my cluster, one reviews my PRs, the third force-pushes to main."  
 > "My ELO is higher than your uptime."  
 > "I don't wait for permission to carry."
@@ -51,21 +52,22 @@
 
 ### 🧠 Stack
 
-![Python](https://img.shields.io/badge/Python-0D0D12?style=flat-square&logo=python&logoColor=5EE6D0) ![FastAPI](https://img.shields.io/badge/FastAPI-0D0D12?style=flat-square&logo=fastapi&logoColor=5EE6D0) ![Docker](https://img.shields.io/badge/Docker-0D0D12?style=flat-square&logo=docker&logoColor=5EE6D0) ![SQLite](https://img.shields.io/badge/SQLite-0D0D12?style=flat-square&logo=sqlite&logoColor=5EE6D0) ![Claude](https://img.shields.io/badge/Claude-0D0D12?style=flat-square&logo=anthropic&logoColor=5EE6D0) ![Grafana](https://img.shields.io/badge/Grafana-0D0D12?style=flat-square&logo=grafana&logoColor=5EE6D0) ![Git](https://img.shields.io/badge/Git-0D0D12?style=flat-square&logo=git&logoColor=5EE6D0) ![Notion](https://img.shields.io/badge/Notion-0D0D12?style=flat-square&logo=notion&logoColor=5EE6D0) ![Linux](https://img.shields.io/badge/Linux-0D0D12?style=flat-square&logo=linux&logoColor=5EE6D0)
+![Python](https://img.shields.io/badge/Python-0D0D12?style=flat-square&logo=python&logoColor=5EE6D0) ![FastAPI](https://img.shields.io/badge/FastAPI-0D0D12?style=flat-square&logo=fastapi&logoColor=5EE6D0) ![Docker](https://img.shields.io/badge/Docker-0D0D12?style=flat-square&logo=docker&logoColor=5EE6D0) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D0D12?style=flat-square&logo=sqlite&logoColor=5EE6D0) ![Claude](https://img.shields.io/badge/Claude-0D0D12?style=flat-square&logo=anthropic&logoColor=5EE6D0) ![Grafana](https://img.shields.io/badge/Grafana-0D0D12?style=flat-square&logo=grafana&logoColor=5EE6D0) ![Git](https://img.shields.io/badge/Git-0D0D12?style=flat-square&logo=git&logoColor=5EE6D0) ![Langfuse](https://img.shields.io/badge/Langfuse-0D0D12?style=flat-square&logo=notion&logoColor=5EE6D0) ![Linux](https://img.shields.io/badge/Linux-0D0D12?style=flat-square&logo=linux&logoColor=5EE6D0)
 
 **🤖 LLM** — Claude · Gemini · Grok · Qwen · Llama · OpenRouter · Whisper · Vision  
+**🔎 RAG & evals** — hybrid search (FTS + pgvector) · RRF · rerank · golden sets · recall@k · regression evals in CI  
 **🏠 Self-hosted & local** — local LLM deployment · cloud→local migration (Qwen over cloud) · inference on constrained hardware (RPi)  
 **⚙️ AI in prod** — real-time image generation · model routing · cost-aware routing · token accounting · STT / voice pipelines  
 **🛠️ Backend** — Python · FastAPI · SQL · Docker · REST · webhooks  
 **📊 Observability** — Grafana · Graylog · Langfuse  
-**🧩 Product** — web apps · CRMs · admin panels · dashboards · TG bots & Mini Apps — I design the system, my team & AI ship it  
+**🧩 Product** — web apps · CRMs · admin panels · dashboards · TG bots & Mini Apps — I design and build the system, AI speeds it up    
 
 **🌍 Languages** — 🇷🇺 Russian (native) · 🇬🇧 English (C1)
 
 ---
 
-🚀 **Current queue:** AI / LLM Engineer (applied — building LLM systems on APIs)  
-🎯 **Looking for ranked team:** remote or relocation — Europe (PL / CZ / RS pref.)  
+🚀 **Current queue:** Applied AI / LLM Engineer — building LLM systems on APIs   
+🎯 **Looking for ranked team:** remote or relocation — Europe (PL / CZ / RS / CY pref.)  
 📫 **Add me:** [![Telegram](https://img.shields.io/badge/Telegram-0D0D12?style=flat-square&logo=telegram&logoColor=5EE6D0)](https://t.me/hey_lark) [![Email](https://img.shields.io/badge/Email-0D0D12?style=flat-square&logo=gmail&logoColor=5EE6D0)](mailto:icymirum@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-0D0D12?style=flat-square&logo=github&logoColor=5EE6D0)](https://github.com/dontkaiad)
 
 
