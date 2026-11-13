@@ -1,3 +1,5 @@
+<a href="https://heylark.dev"><img src="banner.png" width="100%" alt="Kai Lark — AI / LLM Engineer · witch in prod"></a>
+
 <div align="center">
 
 # LoL Champion Spotlight: Karina/Kai Lark 
